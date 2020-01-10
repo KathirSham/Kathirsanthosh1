@@ -5,6 +5,7 @@ public class Employee1 extends Employee{
 	public void empid() {
 		
 		System.out.println("20 lakhs");
+		System.out.println("Santhosh");
 		
 	}
 public static void main(String[] args) {
